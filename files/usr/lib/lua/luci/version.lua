@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "BI4PCS"
+luciname    = "BD4TWO"
 luciversion = "MMDVM 10.06"
